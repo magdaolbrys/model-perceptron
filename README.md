@@ -1,4 +1,4 @@
-(zadanie lab 3)
+(zadanie RTA lab 3)
 
 ## model-perceptron
 
