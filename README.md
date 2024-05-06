@@ -3,7 +3,7 @@
 ## model-perceptron
 
 
-To run this model locally, build the Docker image:
+To run this model locally open Docker desktop and then build the Docker image:
 
 ```bash
 docker build -t name .
