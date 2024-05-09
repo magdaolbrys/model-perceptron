@@ -18,7 +18,7 @@ docker run -d -p 8000:8000 name
 
 2. go to http://localhost:8000 (password: root)
 
-3. open terminal and type
+3. open terminal and type:
 
 ```bash
 python app.py
